@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:duvidas@adapta.org"
     }
   ],
   "topbarCtaButton": {
@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -50,9 +50,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Comece por aqui",
       "pages": [
-        "introduction",
+        "introdução",
         "quickstart",
         "development"
       ]
