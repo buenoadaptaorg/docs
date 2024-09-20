@@ -52,7 +52,7 @@
     {
       "group": "Comece por aqui",
       "pages": [
-        "introdução",
+        "introduction",
         "quickstart",
         "development"
       ]
